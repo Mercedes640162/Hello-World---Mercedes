@@ -1,0 +1,56 @@
+header {
+    background-color: lightpink;
+}
+
+.highlight {
+    color: black;
+}
+
+.link-body-emphasis {
+    color: white;
+}
+
+.link-body-emphasis:hover {
+    color: green;
+}
+
+.nav-pills .nav-link {
+    background-color: #ff7d90;
+    color: black;
+}
+
+.nav-pills .nav-link:hover {
+    background-color: #ff6178;
+    color: white;
+}
+
+.nav-pills .nav-link.active {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.nav-item:not(:last-child) {
+    margin-right: 10px;
+}
+
+footer {
+    background-color: lightpink;
+}
+
+#story {
+    width: 300px;
+    height: 150px;
+}
+
+#name {
+    width: 300px;
+}
+
